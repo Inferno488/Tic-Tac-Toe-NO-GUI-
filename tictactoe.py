@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jul 26 17:11:59 2019
-
-@author: Prabhleen
 """
 
 from IPython.display import clear_output
